@@ -6,6 +6,32 @@
 <p align="center"> <img src="https://img.shields.io/badge/version-1.4-orange" /> <img src="https://img.shields.io/badge/PYTHON-03b1fc?style=for-the-badge&logo=python"/> <a href="https://github.com/Alb-310"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><a/> <a href="https://twitter.com/Alb_310"> <img src="https://github.com/Alb-310/Geogramint/blob/master/.github/by-alb310.svg"/><a/> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg"/>
 <p align="center"> <a href="https://projetfox.com/"> <img src="https://github.com/Alb-310/Geogramint/blob/master/.github/fox%20badge.png" width="200"/> <a/>
 
+## The End : 06/09/2024
+
+
+Pavel Durov, the founder and CEO of Telegram, announced the discontinuation of the "People Nearby" feature. The feature has been non-functional for a week.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/6315894f-7e31-4599-83e9-2e0f70f86ee5" width="400"/>
+
+
+The removal of this feature means that Geogramint and other OSINT tools that utilize the API no longer work. As of today, this GitHub repository will be archived.
+
+The popularity of Geogramint began with [this Projet FOX article](https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/), where the tool's capabilities were demonstrated in action. It was also showcased at the International Cybersecurity Forum (FIC) in Lille, France, in 2022, which led to this [Projet FOX article](https://projetfox.com/en/2023/07/osint-russian-military-presence-in-belarus/).
+
+Geogramint was used by many journalists, investigators, OSINT practitioners, and others. I personally want to thank everyone who used the tool, and I hope Geogramint was helpful in your investigations!
+
+<p align="right">
+<b>- Alb310
+</b></p>
+
+<p align="center">
+<a href="https://twitter.com/Alb_310">Twitter @Alb_310</a> | 
+<a href="https://projetfox.com/">Projet FOX's Website</a> | 
+<a href="https://twitter.com/ProjetFOX">Twitter @ProjetFOX</a> | 
+<a href="https://discord.com/invite/nxffsWBNRK">Projet FOX's Discord</a> | 
+<a href="https://www.linkedin.com/company/projetfox">Projet FOX's LinkedIn</a>
+</p>
+
 ## **About**
 
 Geogramint is an OSINT tool that uses Telegram's API to find nearby users and groups. Inspired by [Tejado's Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map), which is no longer maintained, it aims to provide a more user-friendly alternative.
