@@ -16,7 +16,7 @@ Pavel Durov, the founder and CEO of Telegram, announced the discontinuation of t
 
 The removal of this feature means that Geogramint and other OSINT tools that utilize the API no longer work. As of today, this GitHub repository will be archived.
 
-The popularity of Geogramint began with [this Projet FOX article](https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/), where the tool's capabilities were demonstrated in action. It was also showcased at the International Cybersecurity Forum (FIC) in Lille, France, in 2022, which led to this [Projet FOX article](https://projetfox.com/en/2023/07/osint-russian-military-presence-in-belarus/).
+The popularity of Geogramint began with [this Projet FOX article](https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/), where the tool's capabilities were demonstrated in action. It was also showcased at the International Cybersecurity Forum (FIC) in Lille, France, in 2023, which led to this [Projet FOX article](https://projetfox.com/en/2023/07/osint-russian-military-presence-in-belarus/).
 
 Geogramint was used by many journalists, investigators, OSINT practitioners, and others. I personally want to thank everyone who used the tool, and I hope Geogramint was helpful in your investigations!
 
